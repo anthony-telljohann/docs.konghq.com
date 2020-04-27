@@ -25,7 +25,7 @@ export USERNAME=drogon
 export EMAIL=test@test.com
 export WORKSPACE=default
 export HOST=127.0.0.1:8001
-export ADMIN_TOKEN=Kong-Admin-Token:hunter2
+export TOKEN=Kong-Admin-Token:hunter2
 ```
 
 May benefit from HTTPie and jq.
